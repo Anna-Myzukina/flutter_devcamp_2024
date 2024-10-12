@@ -18,7 +18,7 @@
 ### Topic: Flutter & API Integration
 - [x] Necessary Project: [flutter_devcamp_api](https://github.com/Anna-Myzukina/flutter_devcamp_api)
 
-<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/home%20screen.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/view%20post.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/create_post.png" height="400">
 
 - [ ] Experimental project:
 
