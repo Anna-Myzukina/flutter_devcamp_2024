@@ -2,43 +2,55 @@
 
 ## Week 1
 ### Topic: Flutter Basics layouts & widgets
-![screenshot](https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png)
-
 - [x] Necessary Progect: [flutter_ui]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
+
+
 
 
 - [ ] Experimental Project: [name](link)
-![screenshot]()
+
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 ## Week 2
 ### Topic: Flutter & API Integration
 - [x] Necessary Project: [name](link)
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 - [ ] Experimental project:
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 #### Topic: Flutter with Firebase database
 - [x] Necessary Project: [name](link)
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 - [ ] Experimental project:
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 ## Week 3
 ### Topic: Riverpod with API
 - [x] Necessary Project: [name](link)
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 - [ ] Experimental project:
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 ### Topic: Riverpod with Firebase
 - [x] Necessary Project: [name](link)
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 - [ ] Experimental project:
-![screenshot]()
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 
 
