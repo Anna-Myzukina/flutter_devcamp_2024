@@ -16,7 +16,7 @@
 
 ## Week 2
 ### Topic: Flutter & API Integration
-- [x] Necessary Project: [name](link)
+- [x] Necessary Project: [flutter_devcamp_api](https://github.com/Anna-Myzukina/flutter_devcamp_api)
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
