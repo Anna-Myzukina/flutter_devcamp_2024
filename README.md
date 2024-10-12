@@ -2,7 +2,7 @@
 
 ## Week 1
 ### Topic: Flutter Basics layouts & widgets
-![screenshot]()
+![screenshot](https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png)
 
 - [x] Necessary Progect: [flutter_ui]()
 
