@@ -2,25 +2,17 @@
 
 ## Week 1
 ### Topic: Flutter Basics layouts & widgets
-- [x] Necessary Progect: [flutter_ui](https://github.com/Anna-Myzukina/flutter_devcamp_ui)
+- [x] Progect: [flutter_ui](https://github.com/Anna-Myzukina/flutter_devcamp_ui)
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/mentors_screen.png" height="400">
 
-
-
-
-- [ ] Experimental Project: [name](link)
-
-
-<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
-
 ## Week 2
 ### Topic: Flutter & API Integration
-- [x] Necessary Project: [flutter_devcamp_api](https://github.com/Anna-Myzukina/flutter_devcamp_api)
+- [x] Project: [flutter_devcamp_api](https://github.com/Anna-Myzukina/flutter_devcamp_api)
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/home%20screen.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/view%20post.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/create_post.png" height="400">
 
-- [ ] Experimental project:
+- [ ] Weather API project: [flutter_weather_api_app]()
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
