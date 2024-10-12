@@ -2,8 +2,10 @@
 
 ## Week 1
 ### Topic: Flutter Basics layouts & widgets
-- [x] Necessary Progect: [flutter_ui]()
 ![screenshot]()
+
+- [x] Necessary Progect: [flutter_ui]()
+
 
 - [ ] Experimental Project: [name](link)
 ![screenshot]()
