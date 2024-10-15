@@ -19,6 +19,9 @@
 #### Topic: Flutter with Firebase database
 - [x] Project: [flutter_devcamp_firebase_signin](https://github.com/Anna-Myzukina/flutter_devcamp_firebase_signin)
 
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fire_app.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/firebase_2.png" height="400">
+
+
 ## Week 3
 ### Topic: Riverpod with API
 - [x] Project: [name](link)
