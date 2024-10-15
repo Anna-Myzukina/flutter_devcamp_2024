@@ -17,32 +17,22 @@
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 #### Topic: Flutter with Firebase database
-- [x] Necessary Project: [name](link)
-
-<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
-
-- [ ] Experimental project:
+- [x] Project: [flutter_devcamp_firebase_signin](https://github.com/Anna-Myzukina/flutter_devcamp_firebase_signin)
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 ## Week 3
 ### Topic: Riverpod with API
-- [x] Necessary Project: [name](link)
+- [x] Project: [name](link)
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
-- [ ] Experimental project:
-
-<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 ### Topic: Riverpod with Firebase
-- [x] Necessary Project: [name](link)
+- [x] Project: [name](link)
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
-- [ ] Experimental project:
-
-<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400">
 
 
 
