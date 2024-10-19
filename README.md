@@ -12,7 +12,7 @@
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/home%20screen.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/view%20post.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/create_post.png" height="400">
 
-- [ ] Weather API project: [flutter_weather_api_app]() COMING SOON (This project is still in process)
+- [ ] Weather API project: [flutter_weather_api_app](https://github.com/Anna-Myzukina/flutter_weather_api_app/tree/main)
       
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/weather_app.png" height="400"> 
 
