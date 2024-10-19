@@ -17,6 +17,9 @@
 
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fire_app.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/firebase_2.png" height="400">
 
+- [x] Project: Weather API project: [flutter_weather_api_app](https://github.com/Anna-Myzukina/flutter_weather_api_app/tree/main)
+ 
+<img src="https://github.com/Anna-Myzukina/flutter_weather_api_app/blob/main/assets/screenshots/Screenshot_1729361906.png" height="400">  <img src="https://github.com/Anna-Myzukina/flutter_weather_api_app/blob/main/assets/screenshots/Screenshot_1729361924.png" height="400"> 
 
 ## Week 3
 ### Topic: Riverpod with API
