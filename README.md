@@ -24,6 +24,10 @@
 ## Week 3
 ### Topic: Riverpod with API
 - [x] project: Flutter DevCamp API Post generator: [flutter_devcamp_api](https://github.com/Anna-Myzukina/flutter_devcamp_api)
+
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/Screenshot_1729533149.png" height="400">  <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/Screenshot_1729533154.png" height="400"> 
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/Screenshot_1729533160.png" height="400"> 
+
 - [x] Project: Weather API project: [flutter_weather_api_app](https://github.com/Anna-Myzukina/flutter_weather_api_app/tree/main)
       
 <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/weather_app.png" height="400"> 
